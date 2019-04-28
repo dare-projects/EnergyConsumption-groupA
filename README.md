@@ -27,4 +27,3 @@ DaRe_Energy_Predictor = Autonomous script for data prediction.
                                  
                         Output -> <outFile> containing the input data with added column for predicted values
                         
-====================================================================================================
