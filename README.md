@@ -1,7 +1,7 @@
 
 EnergySignature = Input Data
 
-================================================================================================================================
+==================================================================================================
 
 DaRe_Energy_Main =  Script for data preparation.
 
@@ -11,7 +11,7 @@ DaRe_Energy_Main =  Script for data preparation.
                                             split = True || False
                                             outliers_rmv = 'ZS' || 'IQR' || 'NO'
                                             year = 2017 || 2018
-================================================================================================================================                    
+==================================================================================================                    
 
 DaRe_Energy_Random_Forest = Script for random forest model creation.
 
@@ -19,7 +19,7 @@ DaRe_Energy_Random_Forest = Script for random forest model creation.
                             Output -> 1. 'Random_Forest_model.sav' containing the Random Forest model
                                       2. 'test_data.csv' containing the data used to test the model
                                       
-================================================================================================================================                                      
+==================================================================================================                                      
 
 DaRe_Energy_Predictor = Autonomous script for data prediction.
 
